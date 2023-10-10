@@ -28,36 +28,36 @@ Note: Approach 2 was employed due to the nature of the dataset, which consists o
 Road lane segments as .npy
 
 distributed into 6 clasess
-2lanes
-3lanes
-crossing
-split4lanes
-split6lanes
-transition
+1. 2lanes
+2. 3lanes
+3. crossing
+4. split4lanes
+5. split6lanes
+6. transition
 
 with 22 features
-0  local x
-1  local y
-2  local z
-3  red values
-4  green values
-5  blue values
-6  global x
-7  global y
-8  global z
-9  intensity
-10 number of lidar returns
-11 planarity
-12 linearity
-13 sphericity
-14 verticality
-15 mean intensity in 0.3m increments along y 
-16 mean intensity in 1.5m increments along y 
-17 mean intensity in 0.3m increments along x 
-18 mean intensity in 1.5m increments along x 
-19 edge area 
-20 grid increment index 0.3m resolution
-21 intensity principal gradient positions
+1. 0  local x
+2. 1  local y
+3. 2  local z
+4. 3  red values
+5. 4  green values
+6. 5  blue values
+7. 6  global x
+8. 7  global y
+9. 8  global z
+10. 9  intensity
+11. 10 number of lidar returns
+12. 11 planarity
+13. 12 linearity
+14. 13 sphericity
+15. 14 verticality
+16. 15 mean intensity in 0.3m increments along y 
+17. 16 mean intensity in 1.5m increments along y 
+18. 17 mean intensity in 0.3m increments along x 
+19. 18 mean intensity in 1.5m increments along x 
+20. 19 edge area 
+21. 20 grid increment index 0.3m resolution
+22. 21 intensity principal gradient positions
 
 Note: I provided one example of the dataset 
 
