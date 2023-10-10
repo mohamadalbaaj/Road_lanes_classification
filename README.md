@@ -1,5 +1,6 @@
 # Road_lanes_classification
 Road_lanes_classification_from_pointclouds_using_machine_learning
+![Image Alt Text](./assets/project_description.png)
 ## Prerequisites
 - Python version 3.10
 - jupter notebook
